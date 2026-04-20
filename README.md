@@ -1,6 +1,6 @@
 ## Eu sou a Rebecca Fraiha!
 
-Sou graduanda em Tec. da Informaçao pela UFMS sou apaixonada por tecnologia e projetos que tenham impacto social. Atualmente, testou em busca do primeiro emprego na área.
+Sou graduada em Tec. da Informaçao pela UFMS sou apaixonada por tecnologia e projetos que tenham impacto social. Atualmente, testou em busca do primeiro emprego na área.
 
 ### Tenho interesse em:
 
